@@ -1,4 +1,4 @@
-# Exercicios_Guanabara
+# Exercicios Python
 
 Aqui você pode acompanhar meu desenvolvimento na linguagem Python com o curso do Prof. Guanabara
 
@@ -35,5 +35,7 @@ Aqui você pode acompanhar meu desenvolvimento na linguagem Python com o curso d
   * Maior número
   * Calculadora de aumento 2.0
   * Analisador da condição de existência de um triângulo 
+ 
+- No mundo 2, aprendemos sobre as estruturas de repetição com os comandos if, else, for e while e suas usabilidades. Os projetos são:
 
 
