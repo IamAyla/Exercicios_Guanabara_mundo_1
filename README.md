@@ -37,5 +37,41 @@ Aqui você pode acompanhar meu desenvolvimento na linguagem Python com o curso d
   * Analisador da condição de existência de um triângulo 
  
 - No mundo 2, aprendemos sobre as estruturas de repetição com os comandos if, else, for e while e suas usabilidades. Os projetos são:
+  * Aprovador de empréstimo
+  * Conversor de números (octal, hex, binário)
+  * Comparador de números
+  * Verificador de alistamento
+  * Boletim escolar
+  * Categorização de atletas
+  * Classificador de triângulos
+  * Calculadora de IMC
+  * Calculadora de loja
+  * Jokenpô
+  * Ativador de fogos de artifício
+  * Verificador de números pares
+  * Verificdor de múltiplos de 3 
+  * Gerador de tabuada 2.0
+  * Somador de pares
+  * 10º termo de uma progressão
+  * Verificador de primo
+  * Verificador de palíndromo
+  * Verificador de maioridade
+  * Comparador de pesos
+  * Analisador de dados
+  * Cadastro de sexo
+  * Advinhe o número 2.0
+  * Calculadora 
+  * Calculador de fatorial
+  * Gerador de P.A.
+  * Mostrador de termos de P.A.
+  * Sequência Fibonacci
+  * Somador de números
+  * Calculadora de médias
+  * Gerador de tabuada 3.0
+  * É par ou ímpar? 2.0
+  * Cadastrador de pessoas
+  * Analisador de compras
+  * Caixa eletrônico
+  
 
 
