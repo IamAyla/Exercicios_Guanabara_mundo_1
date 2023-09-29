@@ -1,4 +1,4 @@
 # Aprendizado
-![](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![](https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg)
 
 Aqui documento minha jornada de aprendizado com SQL e cursos 
